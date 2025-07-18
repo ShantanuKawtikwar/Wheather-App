@@ -40,7 +40,7 @@ http://localhost:81/
 ```
 ---
 📁 Project Structure:
-
+```
 weather-app/
 ├── main.py
 ├── templates/
@@ -51,6 +51,7 @@ weather-app/
 ├── requirements.txt
 ├── README.md
 
+```
 ---
 
 ## 💡 Future Ideas

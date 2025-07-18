@@ -63,6 +63,6 @@ weather-app/
 
 ---
 
-## 📑 License
+## 🪪 License
 
-Free to use. Educational project.
+This project is open-source under the **MIT License**.

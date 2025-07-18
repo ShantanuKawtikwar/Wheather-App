@@ -16,7 +16,7 @@ Users can enter a city name to get real-time weather updates like temperature, h
 
 ## 🚀 How to Run
 
-# 1️⃣ Install Required Libraries
+1️⃣ Install Required Libraries
 ```
 pip install flask requests
 
@@ -24,17 +24,17 @@ pip install flask requests
 # flask
 # requests
 ```
-# 2️⃣ Get Your OpenWeather API Key
+2️⃣ Get Your OpenWeather API Key
 
-# 3️⃣ Add API Key in main.py
+3️⃣ Add API Key in main.py
 API_KEY = 'a93aa6c0db6d7e6cb73fdf50eb9926de'
 
-# 4️⃣ Run the App
+4️⃣ Run the App
 ```
 python main.py
 ```
 
-# 5️⃣ Open your browser and visit:
+5️⃣ Open your browser and visit:
 ```
 http://localhost:81/
 ```

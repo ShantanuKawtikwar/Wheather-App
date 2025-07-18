@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Weather Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Weather in {{ weather.city }}</h1>
+
+    <p>🌡️ Temperature: {{ weather.temperature }} °C</p>
+    <p>⛅ Description: {{ weather.description }}</p>
+    <p>💧 Humidity: {{ weather.humidity }}%</p>
+
+    <a href="/">Check Another City</a>
+</body>
+</html>
